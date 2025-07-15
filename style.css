@@ -56,9 +56,6 @@ h1{
     transform: scale(1.05); 
   
 }
-
-
-
 main {
   margin: 50px auto;
 }
@@ -212,11 +209,8 @@ padding-right: 5px;
 .book i {
   font-size: 1em;
 }
-@media (max-width: 768px) {
+@media (max-width: 768px)
   .book i {
     font-size: 0.9em;
   }
 }
-
-
-
